@@ -1,5 +1,9 @@
 # git-ignore-Setup
-Feature-CSS
+
+
+This was added by James Alan.
+
+
 I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
 
 
@@ -7,6 +11,5 @@ I enjoy JavaScript because it utilizes both Functional programming and Object-or
 
 
 ## Hi I edited this -Evan
-=======
-I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
-main
+
+
